@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCWorkerService", "POCWorkerService\POCWorkerService.csproj", "{8632BFDB-9A61-409B-B9F6-59E996690909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8632BFDB-9A61-409B-B9F6-59E996690909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8632BFDB-9A61-409B-B9F6-59E996690909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8632BFDB-9A61-409B-B9F6-59E996690909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8632BFDB-9A61-409B-B9F6-59E996690909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2561E795-7664-452C-9F8B-945325B06D60}
+	EndGlobalSection
+EndGlobal
